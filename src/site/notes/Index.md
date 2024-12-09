@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/Index/","tags":["gardenEntry"]}
 ---
 
-==本网站截止2024年12月09日，之后更新的笔记暂停上传==
+[logseq搭建的](https://logseq.oceanum.top)
+网站内容截止2024年12月09日，之后更新的笔记暂停上传
 # 书籍
 
 - [[B2-书籍/kindle/《沉没的甲午》\|《沉没的甲午》]]
@@ -21,6 +22,8 @@
 
 # 近期更新
 
+- [[Zettels/logseq.oceanum.top\|logseq.oceanum.top]]
+- [[Zettels/()\|()]]
 - [[WuCai/2024/12/我们看看 Obsidian CEO 怎么使用 Obsidian-20241208\|我们看看 Obsidian CEO 怎么使用 Obsidian-20241208]]
 - [[A1-输出/我如何记笔记\|我如何记笔记]]
 - [[B2-书籍/微信读书/乡下人的悲歌\|乡下人的悲歌]]
@@ -39,7 +42,5 @@
 - [[WuCai/2024/11/零元购与民主  夜未央-20241107-HMHK26C\|零元购与民主  夜未央-20241107-HMHK26C]]
 - [[WuCai/2024/11/选择「难而正确」的路更容易避开内卷 – 也谈钱-20241101-HMH7HCH\|选择「难而正确」的路更容易避开内卷 – 也谈钱-20241101-HMH7HCH]]
 - [[WuCai/2024/11/这人了得日后定能当上美国总统-20241106-HMH223M\|这人了得日后定能当上美国总统-20241106-HMH223M]]
-- [[WuCai/2024/11/解锁清爽居家环境：如何入门除霉与清洁 ｜ 少数派会员 π+Prime-20241105-HMHH862\|解锁清爽居家环境：如何入门除霉与清洁 ｜ 少数派会员 π+Prime-20241105-HMHH862]]
-- [[WuCai/2024/11/CyberClip 60 社媒之谎-20241104-HMHHH5M\|CyberClip 60 社媒之谎-20241104-HMHHH5M]]
 
 { .block-language-dataview}
